@@ -1,4 +1,4 @@
-## *NEW COURSE PROPOSAL (Boğaziçi Linguistics)*
+## *NEW COURSE (Boğaziçi Linguistics)*
 
 1.  COURSE CODE, TITLE AND CREDIT:
 
