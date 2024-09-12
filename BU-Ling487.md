@@ -2,7 +2,7 @@
 
 1.  COURSE CODE, TITLE AND CREDIT:
 
-    Ling587: Mathematics and Philosophy in Linguistics
+    Ling487: Mathematics and Philosophy in Linguistics
 
 2.  CATALOG DESCRIPTION: Mathematics of linguistic description and
     grammar. Computational infrastructure of linguistic description.
